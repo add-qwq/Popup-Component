@@ -1,3 +1,8 @@
+function isMobile() {
+    // 通过 userAgent 判断是否为移动设备
+    const userAgent = navigator.userAgent.toLowerCase();
+    return /mobile|android|iphone|ipad|ipod|ios|phone/.test(userAgent);
+}
 function loadPopups() {
     fetch('get_popups.php')
         .then(response => response.json())
