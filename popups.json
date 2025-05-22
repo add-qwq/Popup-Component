@@ -2,5 +2,10 @@
     {
         "text": "Sample text",
         "icon": "Example-icon.svg"
+    },
+    {
+        "text": "Mobile detection",
+        "icon": "phone.svg"
+        "phone":"1"
     }
 ]
