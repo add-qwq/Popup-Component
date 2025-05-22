@@ -5,7 +5,7 @@
     },
     {
         "text": "Mobile detection",
-        "icon": "phone.svg"
+        "icon": "phone.svg",
         "phone":"1"
     }
 ]
