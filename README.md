@@ -2,6 +2,7 @@
 # 弹窗组件
 
 ## Introduction (English)
+[Online demonstration(click to access)](https://www.rockaz.top/GitHub-Project-Demo/Popup-Component)
 A customizable notification popup system that dynamically loads content from a JSON file via PHP backend. This component displays animated popups with optional icons, supports dark mode, and features automatic fade-in/out animations. The `z.html` file serves as the integrated demo, requiring server deployment (with PHP support) to function properly.  
 
 ## Features  
@@ -76,6 +77,7 @@ Adjust `popup.js` to change:
 
 ## 项目简介（中文）  
 一个可定制的通知弹窗系统，通过PHP后端从JSON文件动态加载内容。组件支持带可选图标的动画弹窗、暗黑模式适配，并具备自动淡入/淡出效果。`z.html`为整合示例，需部署至服务器（需PHP环境）以正常运行。  
+[在线演示(点击访问)](https://www.rockaz.top/GitHub-Project-Demo/Popup-Component)
 
 ## 功能特性  
 - **动态内容加载**：通过PHP脚本（`get_popups.php`）从`popups.json`读取弹窗数据。  
