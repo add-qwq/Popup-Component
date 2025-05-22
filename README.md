@@ -14,7 +14,7 @@ A customizable notification popup system that dynamically loads content from a J
 
 ## Usage  
 ### 1. Download Files  
-Clone or download all project files: `z.html`, `popup.css`, `popup.js`, `popups.json`, and `get_popups.php`.  
+You can go to 'Releases' to download the source code.
 
 ### 2. Server Deployment  
 - **Required Environment**: A web server with PHP support (e.g., Apache 2.4+, Nginx 1.14+; PHP 7.4+ recommended).  
@@ -87,7 +87,7 @@ Adjust `popup.js` to change:
 
 ## 使用方法  
 ### 1. 下载文件  
-克隆或下载所有项目文件：`z.html`、`popup.css`、`popup.js`、`popups.json`和`get_popups.php`。  
+你可以前往在“Releases”下载源代码
 
 ### 2. 服务器部署  
 - **环境要求**：需支持PHP的Web服务器（如Apache 2.4+、Nginx 1.14+；推荐PHP 7.4+）。  
